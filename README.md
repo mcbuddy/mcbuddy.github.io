@@ -4,7 +4,7 @@ Build using https://startbootstrap.com/template-overviews/resume/
 
 ## Preview
 
-[Resume Preview](mcbuddy.github.io)
+[Resume Preview](https://mcbuddy.github.io)
 
 ## Status
 
